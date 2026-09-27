@@ -1,0 +1,21 @@
+{
+  "country": "Canada",
+  "best_model": "random_forest",
+  "metrics": {
+    "baseline": {
+      "rmse": 29737.081,
+      "mae": 26923.2386,
+      "r2": -0.0005
+    },
+    "random_forest": {
+      "rmse": 35.3327,
+      "mae": 26.3419,
+      "r2": 1.0
+    },
+    "gradient_boosting": {
+      "rmse": 25.4367,
+      "mae": 21.1414,
+      "r2": 1.0
+    }
+  }
+}

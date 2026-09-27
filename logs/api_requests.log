@@ -1,0 +1,6 @@
+2026-09-27 21:43:25,898 | INFO | ibm_api_logger | {"timestamp": "2026-09-27T16:13:25Z", "method": "GET", "path": "/logs", "status_code": 200, "payload": {"type": "api"}, "remote_addr": "127.0.0.1"}
+2026-09-27 21:44:43,140 | INFO | ibm_api_logger | {"timestamp": "2026-09-27T16:14:43Z", "method": "GET", "path": "/logs", "status_code": 200, "payload": {"type": "api"}, "remote_addr": "127.0.0.1"}
+2026-09-27 21:44:48,515 | INFO | ibm_api_logger | {"timestamp": "2026-09-27T16:14:48Z", "method": "POST", "path": "/predict", "status_code": 200, "payload": {"country": "all", "date": "2024-08-15"}, "remote_addr": "127.0.0.1"}
+2026-09-27 21:44:48,515 | INFO | ibm_api_logger | {"timestamp": "2026-09-27T16:14:48Z", "method": "POST", "path": "/predict", "status_code": 400, "payload": {"country": "USA"}, "remote_addr": "127.0.0.1"}
+2026-09-27 21:44:49,140 | INFO | ibm_api_logger | {"timestamp": "2026-09-27T16:14:49Z", "method": "POST", "path": "/train", "status_code": 200, "payload": {"country": "USA"}, "remote_addr": "127.0.0.1"}
+2026-09-27 21:44:49,140 | INFO | ibm_api_logger | {"timestamp": "2026-09-27T16:14:49Z", "method": "POST", "path": "/predict", "status_code": 200, "payload": {"date": "2024-08-15", "country": "USA"}, "remote_addr": "unknown"}

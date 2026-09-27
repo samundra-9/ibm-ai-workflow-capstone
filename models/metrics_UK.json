@@ -1,0 +1,21 @@
+{
+  "country": "UK",
+  "best_model": "random_forest",
+  "metrics": {
+    "baseline": {
+      "rmse": 29773.0536,
+      "mae": 26952.81,
+      "r2": -0.0005
+    },
+    "random_forest": {
+      "rmse": 26.3938,
+      "mae": 18.8605,
+      "r2": 1.0
+    },
+    "gradient_boosting": {
+      "rmse": 19.4726,
+      "mae": 16.2873,
+      "r2": 1.0
+    }
+  }
+}

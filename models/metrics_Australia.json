@@ -1,0 +1,21 @@
+{
+  "country": "Australia",
+  "best_model": "random_forest",
+  "metrics": {
+    "baseline": {
+      "rmse": 29889.0026,
+      "mae": 27060.9331,
+      "r2": -0.0005
+    },
+    "random_forest": {
+      "rmse": 36.9272,
+      "mae": 27.4752,
+      "r2": 1.0
+    },
+    "gradient_boosting": {
+      "rmse": 30.4149,
+      "mae": 23.8459,
+      "r2": 1.0
+    }
+  }
+}

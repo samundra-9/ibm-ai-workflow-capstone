@@ -1,0 +1,41 @@
+2026-09-27 21:44:43,300 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:43Z", "country": "USA", "metrics": {"rmse": 29708.1109, "mae": 26899.469, "r2": -0.0005}}
+2026-09-27 21:44:43,761 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:43Z", "country": "USA", "metrics": {"rmse": 28.8152, "mae": 21.9666, "r2": 1.0}}
+2026-09-27 21:44:43,935 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:43Z", "country": "USA", "metrics": {"rmse": 21.9436, "mae": 18.3969, "r2": 1.0}}
+2026-09-27 21:44:43,935 | WARNING | ibm_model_logger | {"timestamp": "2026-09-27T16:14:43Z", "country": "USA", "current_metrics": {"rmse": 28.8152, "mae": 21.9666, "r2": 1.0}, "drift": {"rmse_delta": -29679.2957, "mae_delta": -26877.5024, "r2_delta": 1.0005}, "drift_detected": true}
+2026-09-27 21:44:43,985 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:43Z", "country": "Canada", "metrics": {"rmse": 29737.081, "mae": 26923.2386, "r2": -0.0005}}
+2026-09-27 21:44:44,425 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:44Z", "country": "Canada", "metrics": {"rmse": 35.3327, "mae": 26.3419, "r2": 1.0}}
+2026-09-27 21:44:44,596 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:44Z", "country": "Canada", "metrics": {"rmse": 25.4367, "mae": 21.1414, "r2": 1.0}}
+2026-09-27 21:44:44,596 | WARNING | ibm_model_logger | {"timestamp": "2026-09-27T16:14:44Z", "country": "Canada", "current_metrics": {"rmse": 35.3327, "mae": 26.3419, "r2": 1.0}, "drift": {"rmse_delta": -29701.7483, "mae_delta": -26896.8967, "r2_delta": 1.0005}, "drift_detected": true}
+2026-09-27 21:44:44,630 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:44Z", "country": "UK", "metrics": {"rmse": 29773.0536, "mae": 26952.81, "r2": -0.0005}}
+2026-09-27 21:44:45,066 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:45Z", "country": "UK", "metrics": {"rmse": 26.3938, "mae": 18.8605, "r2": 1.0}}
+2026-09-27 21:44:45,237 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:45Z", "country": "UK", "metrics": {"rmse": 19.4726, "mae": 16.2873, "r2": 1.0}}
+2026-09-27 21:44:45,238 | WARNING | ibm_model_logger | {"timestamp": "2026-09-27T16:14:45Z", "country": "UK", "current_metrics": {"rmse": 26.3938, "mae": 18.8605, "r2": 1.0}, "drift": {"rmse_delta": -29746.6598, "mae_delta": -26933.9495, "r2_delta": 1.0005}, "drift_detected": true}
+2026-09-27 21:44:45,272 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:45Z", "country": "Germany", "metrics": {"rmse": 29802.8672, "mae": 26981.4423, "r2": -0.0005}}
+2026-09-27 21:44:45,716 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:45Z", "country": "Germany", "metrics": {"rmse": 34.0273, "mae": 24.7355, "r2": 1.0}}
+2026-09-27 21:44:45,889 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:45Z", "country": "Germany", "metrics": {"rmse": 27.5443, "mae": 21.9278, "r2": 1.0}}
+2026-09-27 21:44:45,890 | WARNING | ibm_model_logger | {"timestamp": "2026-09-27T16:14:45Z", "country": "Germany", "current_metrics": {"rmse": 34.0273, "mae": 24.7355, "r2": 1.0}, "drift": {"rmse_delta": -29768.8399, "mae_delta": -26956.7068, "r2_delta": 1.0005}, "drift_detected": true}
+2026-09-27 21:44:45,924 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:45Z", "country": "India", "metrics": {"rmse": 29831.0908, "mae": 27008.9017, "r2": -0.0005}}
+2026-09-27 21:44:46,367 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:46Z", "country": "India", "metrics": {"rmse": 37.3359, "mae": 28.1062, "r2": 1.0}}
+2026-09-27 21:44:46,540 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:46Z", "country": "India", "metrics": {"rmse": 28.6346, "mae": 24.6275, "r2": 1.0}}
+2026-09-27 21:44:46,540 | WARNING | ibm_model_logger | {"timestamp": "2026-09-27T16:14:46Z", "country": "India", "current_metrics": {"rmse": 37.3359, "mae": 28.1062, "r2": 1.0}, "drift": {"rmse_delta": -29793.7549, "mae_delta": -26980.7955, "r2_delta": 1.0005}, "drift_detected": true}
+2026-09-27 21:44:46,574 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:46Z", "country": "Japan", "metrics": {"rmse": 29840.6119, "mae": 27020.585, "r2": -0.0006}}
+2026-09-27 21:44:47,018 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:47Z", "country": "Japan", "metrics": {"rmse": 35.4673, "mae": 26.5677, "r2": 1.0}}
+2026-09-27 21:44:47,190 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:47Z", "country": "Japan", "metrics": {"rmse": 27.911, "mae": 23.2763, "r2": 1.0}}
+2026-09-27 21:44:47,190 | WARNING | ibm_model_logger | {"timestamp": "2026-09-27T16:14:47Z", "country": "Japan", "current_metrics": {"rmse": 35.4673, "mae": 26.5677, "r2": 1.0}, "drift": {"rmse_delta": -29805.1446, "mae_delta": -26994.0173, "r2_delta": 1.0006}, "drift_detected": true}
+2026-09-27 21:44:47,225 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:47Z", "country": "Brazil", "metrics": {"rmse": 29862.3854, "mae": 27039.8355, "r2": -0.0005}}
+2026-09-27 21:44:47,670 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:47Z", "country": "Brazil", "metrics": {"rmse": 48.9374, "mae": 40.0602, "r2": 1.0}}
+2026-09-27 21:44:47,841 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:47Z", "country": "Brazil", "metrics": {"rmse": 37.8719, "mae": 32.8068, "r2": 1.0}}
+2026-09-27 21:44:47,842 | WARNING | ibm_model_logger | {"timestamp": "2026-09-27T16:14:47Z", "country": "Brazil", "current_metrics": {"rmse": 48.9374, "mae": 40.0602, "r2": 1.0}, "drift": {"rmse_delta": -29813.448, "mae_delta": -26999.7753, "r2_delta": 1.0005}, "drift_detected": true}
+2026-09-27 21:44:47,876 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:47Z", "country": "Australia", "metrics": {"rmse": 29889.0026, "mae": 27060.9331, "r2": -0.0005}}
+2026-09-27 21:44:48,314 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:48Z", "country": "Australia", "metrics": {"rmse": 36.9272, "mae": 27.4752, "r2": 1.0}}
+2026-09-27 21:44:48,486 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:48Z", "country": "Australia", "metrics": {"rmse": 30.4149, "mae": 23.8459, "r2": 1.0}}
+2026-09-27 21:44:48,487 | WARNING | ibm_model_logger | {"timestamp": "2026-09-27T16:14:48Z", "country": "Australia", "current_metrics": {"rmse": 36.9272, "mae": 27.4752, "r2": 1.0}, "drift": {"rmse_delta": -29852.0754, "mae_delta": -27033.4579, "r2_delta": 1.0005}, "drift_detected": true}
+2026-09-27 21:44:48,521 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:48Z", "country": "USA", "metrics": {"rmse": 29708.1109, "mae": 26899.469, "r2": -0.0005}}
+2026-09-27 21:44:48,967 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:48Z", "country": "USA", "metrics": {"rmse": 28.8152, "mae": 21.9666, "r2": 1.0}}
+2026-09-27 21:44:49,139 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:49Z", "country": "USA", "metrics": {"rmse": 21.9436, "mae": 18.3969, "r2": 1.0}}
+2026-09-27 21:44:49,139 | WARNING | ibm_model_logger | {"timestamp": "2026-09-27T16:14:49Z", "country": "USA", "current_metrics": {"rmse": 28.8152, "mae": 21.9666, "r2": 1.0}, "drift": {"rmse_delta": -29679.2957, "mae_delta": -26877.5024, "r2_delta": 1.0005}, "drift_detected": true}
+2026-09-27 21:44:49,140 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:49Z", "country": "USA", "metrics": {"rmse": 10.2, "mae": 8.6, "r2": 0.84}}
+2026-09-27 21:44:49,419 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:49Z", "country": "USA", "metrics": {"rmse": 29708.1109, "mae": 26899.469, "r2": -0.0005}}
+2026-09-27 21:44:49,884 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:49Z", "country": "USA", "metrics": {"rmse": 28.8152, "mae": 21.9666, "r2": 1.0}}
+2026-09-27 21:44:50,057 | INFO | ibm_model_logger | {"timestamp": "2026-09-27T16:14:50Z", "country": "USA", "metrics": {"rmse": 21.9436, "mae": 18.3969, "r2": 1.0}}
+2026-09-27 21:44:50,057 | WARNING | ibm_model_logger | {"timestamp": "2026-09-27T16:14:50Z", "country": "USA", "current_metrics": {"rmse": 28.8152, "mae": 21.9666, "r2": 1.0}, "drift": {"rmse_delta": -29679.2957, "mae_delta": -26877.5024, "r2_delta": 1.0005}, "drift_detected": true}

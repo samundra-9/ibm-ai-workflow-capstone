@@ -1,0 +1,21 @@
+{
+  "country": "Brazil",
+  "best_model": "random_forest",
+  "metrics": {
+    "baseline": {
+      "rmse": 29862.3854,
+      "mae": 27039.8355,
+      "r2": -0.0005
+    },
+    "random_forest": {
+      "rmse": 48.9374,
+      "mae": 40.0602,
+      "r2": 1.0
+    },
+    "gradient_boosting": {
+      "rmse": 37.8719,
+      "mae": 32.8068,
+      "r2": 1.0
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "country": "Japan",
+  "best_model": "random_forest",
+  "metrics": {
+    "baseline": {
+      "rmse": 29840.6119,
+      "mae": 27020.585,
+      "r2": -0.0006
+    },
+    "random_forest": {
+      "rmse": 35.4673,
+      "mae": 26.5677,
+      "r2": 1.0
+    },
+    "gradient_boosting": {
+      "rmse": 27.911,
+      "mae": 23.2763,
+      "r2": 1.0
+    }
+  }
+}

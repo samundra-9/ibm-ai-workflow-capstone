@@ -1,0 +1,21 @@
+{
+  "country": "India",
+  "best_model": "random_forest",
+  "metrics": {
+    "baseline": {
+      "rmse": 29831.0908,
+      "mae": 27008.9017,
+      "r2": -0.0005
+    },
+    "random_forest": {
+      "rmse": 37.3359,
+      "mae": 28.1062,
+      "r2": 1.0
+    },
+    "gradient_boosting": {
+      "rmse": 28.6346,
+      "mae": 24.6275,
+      "r2": 1.0
+    }
+  }
+}
